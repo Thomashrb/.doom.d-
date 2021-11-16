@@ -1,8 +1,5 @@
 ;;; +pony.el -*- lexical-binding: t; -*-
 
-;;
-;;; Common packages
-
 (use-package! ponylang-mode
   :after
   (flycheck-pony)
